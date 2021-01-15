@@ -170,7 +170,7 @@ def longest_common_subsequence_dp_test():
         output, total_time))
 
 
-def run():
+def main():
     # knapsack_repeat_test()
     # fibonacci_recursive_test()
     # fibonacci_dp_test()
@@ -179,4 +179,4 @@ def run():
     
     
 if __name__ == '__main__':
-    run()
+    main()
